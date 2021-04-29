@@ -1,6 +1,12 @@
-print("Hello Sayali")
+"""Sample Hello World Program."""
 
-message="Hello Python World"
-print(message)
-print("Learning Git")
+def main():     # This is a function
+    print("Hello Sayali")
 
+    message="Hello Python World"
+    print(message)
+    print("Learning Git")
+
+
+if __name__ == "__main__":
+    main()
