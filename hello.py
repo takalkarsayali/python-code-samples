@@ -10,3 +10,5 @@ def main():     # This is a function
 
 if __name__ == "__main__":
     main()
+
+print("Done with Git and GitHub.")
