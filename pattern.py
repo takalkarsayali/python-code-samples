@@ -1,3 +1,4 @@
+print("Here we will print your Pattern.")
 #Star k x j Pattern
 k=int(input("Enter no. of Rows: "))
 l=int(input("Enter no. of Columns: "))
@@ -9,6 +10,7 @@ def print_my_pattern(k,l):
             print("*",end="")
         print()
 print_my_pattern(k,l)
+
 
 
 
