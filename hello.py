@@ -5,7 +5,6 @@ def main():     # This is a function
 
     message="Hello Python World"
     print(message)
-    print("Learning Git")
     print("Learning Git Branching.")
     print("Learning Git on VSC.")
 
