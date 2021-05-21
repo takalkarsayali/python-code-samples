@@ -1,7 +1,7 @@
 """Sample Hello World Program."""
 
 def main():     # This is a function
-    print("Hello Sayali Takalkar")
+    print("Hello Sayali!!")
 
     message="Hello Python World"
     print(message)
