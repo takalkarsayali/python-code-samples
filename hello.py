@@ -7,6 +7,7 @@ def main():     # This is a function
     print(message)
     print("Learning Git")
     print("Learning Git Branching.")
+    print("Learning Git on VSC.")
 
 
 if __name__ == "__main__":
