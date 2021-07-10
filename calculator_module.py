@@ -1,4 +1,6 @@
-# here are the functions for Calculator
+''' here are the functions for Calculator
+    Calculator module
+'''
 #1.Addition of two nos.
 def add(x,y):
     print("The sum is : ", x+y)
@@ -46,3 +48,18 @@ def fact(a):
         fact = fact*i
     print(str(a)+"! = ",fact)
 
+#11. Square of the number
+def square(a):
+    print("Square of "+str(a)+" = ",a**2)
+
+#12. Square root
+def sq_root(a):
+    print("Square Root of "+str(a)+" = ",a**0.5)
+
+#13. Cube of the number
+def cube(a):
+    print("Cube of "+str(a)+" = ",a**3)
+
+#14. Cube Root
+def cube_root(a):
+    print("Cube root of "+str(a)+" = ",a**0.33)
