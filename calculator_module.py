@@ -1,4 +1,6 @@
-# here are the functions for Calculator
+''' here are the functions for Calculator
+    Calculator module
+'''
 #1.Addition of two nos.
 def add(x,y):
     print("The sum is : ", x+y)
