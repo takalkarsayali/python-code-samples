@@ -1,5 +1,6 @@
-''' here are the functions for Calculator
-    Calculator module
+'''
+here are the functions for Calculator
+Calculator module
 '''
 '''
 Merge Conflict test
