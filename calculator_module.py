@@ -1,6 +1,9 @@
 ''' here are the functions for Calculator
     Calculator module
 '''
+'''
+Merge Conflict test
+'''
 #1.Addition of two nos.
 def add(x,y):
     print("The sum is : ", x+y)
